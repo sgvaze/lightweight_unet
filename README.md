@@ -19,7 +19,7 @@ Recommended installation wih ```conda```:
 
 
 ```
-$ conda env create -f requirements/environment.yml 
+$ conda env create -f environments/environment.yml 
 ```
 
 Add locations of directories in which Experiment Data and Input Data are to be stored to `trainer_cfg` in ```runner.py```
