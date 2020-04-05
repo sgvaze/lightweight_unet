@@ -1,5 +1,6 @@
 # Lightweight U-Nets
 
+Code for paper: [Low-Memory CNNs Enabling Real-Time Ultrasound Segmentation Towards Mobile Deployment](https://ieeexplore.ieee.org/document/8999615)
 
 Train lightweight U-Net models. Code facillitates training of the following models: 
 
