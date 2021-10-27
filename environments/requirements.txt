@@ -4,7 +4,7 @@ certifi==2018.11.29
 cloudpickle==0.7.0
 cycler==0.10.0
 cytoolz==0.9.0.1
-dask==1.1.1
+dask==2021.10.0
 decorator==4.3.2
 gast==0.2.2
 grpcio==1.16.1
