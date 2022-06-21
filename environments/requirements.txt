@@ -17,7 +17,7 @@ kiwisolver==1.0.1
 Markdown==3.0.1
 matplotlib==3.0.2
 networkx==2.2
-numpy==1.16.0
+numpy==1.22.0
 olefile==0.46
 pandas==0.24.1
 Pillow==5.4.1
